@@ -61,4 +61,6 @@ git add .
 git commit -m "Initial import"
 git branch -M main
 git push -u origin main
+https://github.com/kamga144joel/SNEAKERS/blob/main/README.md
+https://joel-kamga-sneakear.netlify.app/#arrivages
 ```
