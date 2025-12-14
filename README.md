@@ -62,6 +62,3 @@ git commit -m "Initial import"
 git branch -M main
 git push -u origin main
 ```
-
-## Licence
-Usage éducatif et démonstration front‑end.
