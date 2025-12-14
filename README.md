@@ -1,6 +1,6 @@
 # SNEAKERS — E‑commerce Front‑End (Cameroun)
 
-Projet front‑end de boutique de sneakers, 100% côté client. Panier, paiement en mode démo (Carte, Mobile Money, PayPal), confirmation de commande, favoris, filtres/tri, modal produit, galerie, pages légales, et profil utilisateur local.
+Projet front‑end de boutique de sneakers . Panier, paiement en mode démo (Carte, Mobile Money, PayPal), confirmation de commande, favoris, filtres/tri, modal produit, galerie, pages légales, et profil utilisateur local.
 
 ## Fonctionnalités
 - Panier avec compteur, mini‑bar de total et toasts
